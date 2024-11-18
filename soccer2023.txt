@@ -1,0 +1,40 @@
+Mohamed Salah
+Liverpool
+29
+11
+936
+Lionel Messi
+Paris St. Germain
+29
+19
+884
+Robert Lewandowski
+Barcelona
+29
+7
+961
+Kylian Mbappe
+Paris St. Germain
+35
+9
+1250
+Erling Haaland
+Manchester City
+51
+8
+1144
+Marcus Rashford
+Liverpool
+29
+11
+1194
+Kevin De Bruyne
+Manchester City
+9
+27
+1200
+Neymar
+Paris St. Germain
+18
+17
+904
